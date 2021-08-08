@@ -8,5 +8,15 @@ namespace PROYECTO_JEREMY
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }
