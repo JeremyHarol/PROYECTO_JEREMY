@@ -23,5 +23,10 @@ namespace PROYECTO_JEREMY
         {
 
         }
+
+        private void button4_Click(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }
